@@ -65,8 +65,6 @@ speech_recognition_system/
 
 ## Run Procedure
 
-Use the `speech_to_text.py` script to transcribe a WAV file. Below are the commands you’ll include in your README (code form):
-
 > ### Google Web Speech API (Online)
 ```bash
 # Transcribe with Google Web Speech API
@@ -88,9 +86,3 @@ torch
 torchaudio
 soundfile
 ```
-
----
-
-*Include the above commands under a **Run Procedure** section in your GitHub `README.md`. No need to embed the full Python code—just the CLI usage snippets.*
-
-
