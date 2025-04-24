@@ -54,7 +54,7 @@ speech_recognition_system/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/speech_recognition_system.git
+   git clone https://github.com/digantk31/SPEECH-RECOGNITION-SYSTEM.git
    cd speech_recognition_system
    ```
 
