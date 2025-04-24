@@ -41,7 +41,56 @@ Overall, this internship task not only deepened my understanding of speech recog
 
 ## Requirements Installation
 
-Before running the program, install dependencies:
+## Repository Structure
 
+```
+speech_recognition_system/
+├── README.md
+├── requirements.txt
+└── speech_to_text.py
+```
+
+## Setup Instructions
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/speech_recognition_system.git
+   cd speech_recognition_system
+   ```
+
+2. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Run Procedure
+
+Use the `speech_to_text.py` script to transcribe a WAV file. Below are the commands you’ll include in your README (code form):
+
+> ### Google Web Speech API (Online)
 ```bash
-pip install -r requirements.txt
+# Transcribe with Google Web Speech API
+python speech_to_text.py --method google path/to/short_clip.wav
+```
+
+> ### Wav2Vec2 (Offline)
+```bash
+# Transcribe with Wav2Vec2 (downloads model on first run)
+python speech_to_text.py --method wav2vec2 path/to/short_clip.wav
+```
+
+## requirements.txt
+
+```text
+speechrecognition
+transformers
+torch
+torchaudio
+soundfile
+```
+
+---
+
+*Include the above commands under a **Run Procedure** section in your GitHub `README.md`. No need to embed the full Python code—just the CLI usage snippets.*
+
+
