@@ -8,9 +8,9 @@
 
 *Project Images*:
 *Google Web Speech API (Online)*
-![Google Web Speech API (Online).png]()
+![Google Web Speech API (Online).png](https://github.com/digantk31/SPEECH-RECOGNITION-SYSTEM/blob/main/project%20images/01-Google_Web_Speech_%20API_(Online).png)
 *Wav2Vec2 (Offline)*
-![Wav2Vec2 (Offline).png]()
+![Wav2Vec2 (Offline).png](https://github.com/digantk31/SPEECH-RECOGNITION-SYSTEM/blob/main/project%20images/02-Wav2Vec2_(Offline).png)
 
 ---
 
