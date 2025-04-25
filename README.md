@@ -7,8 +7,6 @@
 **DURATION**: 4 WEEKS
 
 *Project Images*:
-*Google Web Speech API (Online)*
-![Google Web Speech API (Online).png](https://github.com/digantk31/SPEECH-RECOGNITION-SYSTEM/blob/main/project%20images/01-Google%20Web%20Speech%20API%20(Online).png)
 *Wav2Vec2 (Offline)*
 ![Wav2Vec2 (Offline).png](https://github.com/digantk31/SPEECH-RECOGNITION-SYSTEM/blob/main/project%20images/02-Wav2Vec2%20(Offline).png)
 
